@@ -1,0 +1,27 @@
+[
+        {
+            "id" : "1",
+            "name" : "Table",
+            "price" : "200",
+            "description" : "Table with 2 feet of size",
+            "img" : "img/1",
+            "available" : true          
+        },
+        {
+            "id" : "2",
+            "name" : "Chair",
+            "price" : "98",
+            "description" : "Beaultiful and looks awesome",
+            "img" : "img/2",
+            "available" : true          
+        },
+        {
+            "id" : "3",
+            "name" : "Furniture",
+            "price" : "350",
+            "description" : "Resistent a colorful cabinet",
+            "img" : "img/3",
+            "available" : true          
+        }
+]
+
